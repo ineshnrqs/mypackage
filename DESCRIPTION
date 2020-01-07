@@ -14,3 +14,6 @@ LazyData: true
 URL: https://github.com/ineshnrqs/mypackage
 BugReports: https://github.com/ineshnrqs/mypackage/issues
 RoxygenNote: 7.0.2
+Imports: 
+    ggplot2,
+    magrittr
